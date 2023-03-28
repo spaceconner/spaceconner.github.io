@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>My New Post</title>
-    <url>/2023/03/17/My-New-Post/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>温度、生产力和生境特征共同驱动湖泊食物网结构</title>
     <url>/2023/03/20/%E6%B8%A9%E5%BA%A6%E3%80%81%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%92%8C%E7%94%9F%E5%A2%83%E7%89%B9%E5%BE%81%E5%85%B1%E5%90%8C%E9%A9%B1%E5%8A%A8%E6%B9%96%E6%B3%8A%E9%A3%9F%E7%89%A9%E7%BD%91%E7%BB%93%E6%9E%84/</url>
     <content><![CDATA[<p><img src="/./../../images%E6%B8%A9%E5%BA%A6%E3%80%81%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%92%8C%E7%94%9F%E5%A2%83%E7%89%B9%E5%BE%81%E5%85%B1%E5%90%8C%E9%A9%B1%E5%8A%A8%E6%B9%96%E6%B3%8A%E9%A3%9F%E7%89%A9%E7%BD%91%E7%BB%93%E6%9E%84/title-1679368950204-1.jpg" alt="title"></p>
@@ -31,30 +26,16 @@
 <p><img src="/./../../images%E6%B8%A9%E5%BA%A6%E3%80%81%E7%94%9F%E4%BA%A7%E5%8A%9B%E5%92%8C%E7%94%9F%E5%A2%83%E7%89%B9%E5%BE%81%E5%85%B1%E5%90%8C%E9%A9%B1%E5%8A%A8%E6%B9%96%E6%B3%8A%E9%A3%9F%E7%89%A9%E7%BD%91%E7%BB%93%E6%9E%84/%E5%9B%BE3.jpg" alt="图3"></p>
 <p>DOI: 10.1111&#x2F;gcb.16642</p>
 ]]></content>
+      <categories>
+        <category>文献阅读</category>
+        <category>食物网</category>
+      </categories>
       <tags>
         <tag>湖泊</tag>
         <tag>温度</tag>
         <tag>生产力</tag>
         <tag>食物网</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2023/03/17/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
   </entry>
   <entry>
     <title>基于生态监测数据的功能多样性和物种性状估计</title>
@@ -88,6 +69,10 @@
 
 <p><a href="https://www.pnas.org/doi/10.1073/pnas.2118156119">https://www.pnas.org/doi/10.1073/pnas.2118156119</a></p>
 ]]></content>
+      <categories>
+        <category>文献阅读</category>
+        <category>功能性状</category>
+      </categories>
       <tags>
         <tag>功能多样性</tag>
         <tag>性状</tag>
@@ -124,11 +109,15 @@
 
 <p><a href="https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.13992">https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.13992</a></p>
 ]]></content>
+      <categories>
+        <category>文献阅读</category>
+        <category>共存理论</category>
+      </categories>
       <tags>
         <tag>温度</tag>
-        <tag>食物网</tag>
         <tag>生态位</tag>
         <tag>适应性差异</tag>
+        <tag>食物网 - 物种共存</tag>
       </tags>
   </entry>
 </search>
