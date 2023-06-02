@@ -466,4 +466,43 @@
         <tag>动物</tag>
       </tags>
   </entry>
+  <entry>
+    <title>R中不等长数据合并</title>
+    <url>/2023/06/02/R%E4%B8%AD%E4%B8%8D%E7%AD%89%E9%95%BF%E6%95%B0%E6%8D%AE%E5%90%88%E5%B9%B6/</url>
+    <content><![CDATA[<p># 创建 df1、df2 和 df3 数据框</p>
+<p>df1 <- data.frame(value = 1:4)</p>
+<p>df2 <- data.frame(value = 6:10)</p>
+<p>df3 <- data.frame(value = 11:18)</p>
+<p>df1$a=1</p>
+<p>df2$a=2</p>
+<p>df3$a=3</p>
+<p>合并数据框</p>
+
+<p>df4 <- rbind(df1,df2,df3)</p>
+
+<p>library(reshape2)</p>
+
+<p># 删除共同变量</p>
+
+<p>df5 <- dcast(df4,value~a)</p>
+
+<p>df6 <- apply(df5, 2, function(x) {
+              		x[order(is.na(x))]
+                    })
+          </p>
+
+<p>df6[is.na(df6)] <- ""</p>
+
+<p>df6 <- as.data.frame(df6)</p>]]></content>
+      <categories>
+        <category>R语言</category>
+        <category>数据操纵</category>
+      </categories>
+      <tags>
+        <tag>不等长数据合并</tag>
+        <tag>dplyr</tag>
+        <tag>R语言</tag>
+        <tag>数据操纵</tag>
+      </tags>
+  </entry>
 </search>
